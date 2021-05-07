@@ -7,7 +7,17 @@
   - 'User Role Editor' to better change User capabilities
   - 'expot JSON' to generate a JSON every time a post is generated or updated. You can find the JSON in /wp-content/uploads
  
-## Default Login
-  adminUser: admin
-  adminPass: admin
+## Login
+
   
+
+ - Default Admin:
+	 - Username: admin
+	 - Password: admin	
+ - Default User:
+	 - Username: test
+	 - Password: test123
+
+## Set up 
+
+Set up with [vccw.cc](http://vccw.cc).
