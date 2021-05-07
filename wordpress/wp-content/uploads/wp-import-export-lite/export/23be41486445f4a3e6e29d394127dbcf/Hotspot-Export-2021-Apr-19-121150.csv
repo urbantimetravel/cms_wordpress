@@ -1,0 +1,8 @@
+ID,Title,Content,Excerpt,Date,"Post Type",Permalink,_copyright-text,_gps_punkt,_image_,copyright-text,gps_punkt,image_,Categories,"Image URL","Images Filename","Images Path","Images ID","Images Title","Images Caption","Images Description","Images Alt Text","Attachment URL","Attachments Filename","Attachments Path","Attachments ID","Attachments Title","Attachments Caption","Attachments Description","Attachments Alt Text",Status,"Author ID","Author Username","Author Email","Author First Name","Author Last Name",Slug,Format,Template,Parent,"Parent Slug",Order,"Comment Status","Ping Status","Post Modified Date"
+25,"Haus der Schneiderin","<!-- wp:paragraph -->
+<p>Hallo Text</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->",,"Apr 17th 2021",ar_hotspot,http://vccw.test/archives/ar_hotspot/haus-der-schneiderin,field_607ad30230b3a,field_607ad29430b39,field_607ad34c30b3b,"Das ist geschützt",2334,26,,http://vccw.test/wp-content/uploads/2021/04/paket.jpg,paket.jpg,/var/www/html/wp-content/uploads/2021/04/paket.jpg,26,paket,,,,,,,,,,,,publish,1,admin,vccw@example.com,,,haus-der-schneiderin,,,0,0,0,closed,closed,"Apr 17th 2021"
